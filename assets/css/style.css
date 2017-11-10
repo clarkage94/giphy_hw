@@ -1,0 +1,12 @@
+.btn {
+    margin: 3px;
+    background-color: teal;
+    border-color: #fff;
+}
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
+.container {
+	padding: 20px;
+}
